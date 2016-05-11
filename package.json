@@ -6,7 +6,7 @@
     "type": "git",
     "url": "http://github.com/usco/usco-utils.git"
   },
-  "main":"src/index.js",
+  "main":"lib/index.js",
   "dependencies": {
     "fast.js": "^0.1.1",
     "jsondiffpatch": "^0.1.43",
